@@ -15,9 +15,9 @@ Join us and unlock the power of Gemini API. Let's unleash the full potential of 
 
 
 ## 🚀 Tutorials
-| **notebook** | **open in colab** | **complementary materials** | **Quiz / Exercise** |
+| **paper** | **open in colab** | **complementary materials** | **pdf** |
 |:------------:|:-------------------------------------------------:|:---------------------------:|:----------------------:|
-| [Lesson 1: Deep Learning Primer (Introduction to Generative AI ) ](https://github.com/ngesa254/Gemini-Fundamentals) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17BI9yPJHZ4q1_WjeNZ6lH7dso-0RWXiD) | [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/@techx_africa) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://www.youtube.com/@techx_africa) |
+| [pp 1: Attention Is All You Need ](https://github.com/ngesa254/Gemini-Fundamentals) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17BI9yPJHZ4q1_WjeNZ6lH7dso-0RWXiD) | [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/@techx_africa) |[![arXiv](https://img.shields.io/badge/arXiv-2212.07784-b31b1b.svg)](https://arxiv.org/pdf/1706.03762.pdf) |
 | [Lesson 2: Getting Started with Gemini API (Gemini 101 )](https://github.com/ngesa254/Gemini-Fundamentals) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Hg9r03hYDvT18IBJSEYaTPuS8kcRlWpr) |[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/yHNPyqazYYU) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://www.youtube.com/@techx_africa) |
 | [Lesson 3: Using Gemini API with Python](https://github.com/ngesa254/Gemini-Fundamentals) |  |[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/@techx_africa) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ngesa254/Gemini-Fundamentals) |
 | [Lesson 4: A Gentle Introduction to LLMs and LangChains ](https://github.com/ngesa254/Gemini-Fundamentals) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qCOVeuOiNpZ4bl09li_WmFkYtjLNYGaP) | [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/@techx_africa) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ngesa254/Gemini-Fundamentals)|
@@ -32,55 +32,3 @@ Join us and unlock the power of Gemini API. Let's unleash the full potential of 
 | [Lesson 13 -  Get started with Gemini on Android](https://github.com/ngesa254/Gemini-Fundamentals) ||[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/@techx_africa) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ngesa254/Gemini-Fundamentals) |
 | [Lesson 14 - Get started with Gemini on Flutter ](https://github.com/ngesa254/Gemini-Fundamentals) | |[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/@techx_africa) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ngesa254/Gemini-Fundamentals) |
 | [Lesson 15 - Get started with Gemini on Angular  ](https://github.com/ngesa254/Gemini-Fundamentals) | |[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=bmsS5egXOo0) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ngesa254/Gemini-Fundamentals) |
-
-
-
----
-
-Week 1
-
-Primer 
-
-Lesson 1 - Deep Learning Primer (Introduction to Generative AI )
-
-Introduction to Generative AI concepts (for beginners).
-
-
-Week 2
-
-Foundations & Setup
-
-Lesson 2 - Getting Started with Gemini API (Gemini 101 )
-
-
-Google AI Studio 101: Set up your development environment and API access to use Gemini.
-Create freeform prompts with Gemini Pro Vision in Google AI Studio
-Text Generation: Create text from text inputs using Gemini Pro API and Python.
-Response Control: Fine-tuning the Response - Control how the model generates responses using Gemini API generation parameters: temperature, top_k, top_p, stop sequences and more
-Trying Gemini Pro Vision - Talking with an Image
-
-
-Lesson 3  - Using Gemini API with Python
-
-Generate text responses from multimodal inputs (text and images).
-Use Gemini for multi-turn conversations (chat).
-Chat Conversations
-
-
-Lesson 4 - A Gentle Introduction to LLMs and LangChains
-Lesson 5 - Getting started with Gemini and LangChains
-Bonus - Get started with Gemini on Android / Web
-
-Week 3
-
-Gemini and LangChains
-
-Lesson 6 - Chat with your document using Gemini and LangChains
-Lesson 7 - Intro to Embeddings with Gemini APIs and LangChains
-Use embeddings for large language models. - Create Vector Embeddings: Develop solutions using vector embeddings to capture semantic relationships in data.
-Bonus - Get started with Gemini on Flutter / Angular
-
-Image Similarity Search with Gemeini
- ---
-
-
